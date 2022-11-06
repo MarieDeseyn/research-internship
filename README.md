@@ -1,6 +1,7 @@
 ## Physics informed machine learning for AEM forward modeling
 
 Code for 4 machine learning techniques is available (in the corresponding folders):
+- Simple auto-encoder
 - Auto-encoder combined with Fourier transform
 - CNN
 - CNN combined with RNN
