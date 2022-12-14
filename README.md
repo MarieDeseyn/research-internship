@@ -1,4 +1,4 @@
-## Physics informed machine learning for AEM forward modeling
+## Physics informed machine learning for AEM forward modeling (in the context of a 2 layer model)
 
 Code for 4 machine learning techniques is available (in the corresponding folders):
 - Simple auto-encoder
