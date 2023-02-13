@@ -11,3 +11,11 @@ For each method a general code for the technique (_gen) and an example code (wit
 The data used in the example codes is also available (Data_used_ex).
 For CNN, there is also a basic optimization code available (_opt), here each parameter is optimized individually, improvement might be found if the optimization is performed simultaneously for all parameters, however a low-RAM usage code should be written for this.
 The code for CNN + auto-encoder combined with Fourier transform is still very basic and needs improvement.
+
+### Data availability
+The dataset used in this project is part of preliminary research. For the use of this data, please contact Wouter Deleersnyder.
+
+### Questions?
+Contact us on GitHub!
+- [Wouter Deleersnyder](https://github.com/WouterDls)
+- [Marie Deseyn](https://github.com/MarieDeseyn)
